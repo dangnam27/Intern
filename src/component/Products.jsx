@@ -21,7 +21,7 @@ const Products = () =>{
                     <img class="card-img-top d-block w-100 " src="https://gachonline.vn/images/san-pham/product/resized/3001_240x240.jpg" alt="Card image cap"/>
                     <div class="card-body">
                     <h5 class="card-title">Gach lát nền Vitto - 5612</h5>
-                    <p class="text-danger">155.000 ₫/m2 </p>
+                    <p class="text-danger"></p>
                     </div>
                 </div>
                 </a> 
@@ -33,7 +33,7 @@ const Products = () =>{
                     <img class="card-img-top d-block w-100" src="https://gachonline.vn/images/san-pham/product/resized/5613_240x240.jpg" alt="Card image cap"/>
                     <div class="card-body">
                         <h5 class="card-title">Gach lát nền Vitto - 5613</h5>
-                        <p class="text-danger">155.000 ₫/m2 </p>
+                        <p class="text-danger"> </p>
 
                     </div>
                     </div></a>
@@ -45,7 +45,7 @@ const Products = () =>{
                         <img class="card-img-top d-block w-100" src="https://gachonline.vn/images/san-pham/product/resized/5612_240x240.jpg" alt="Card image cap"/>
                         <div class="card-body">
                         <h5 class="card-title">Gạch lát nền VITTO VT3001</h5>
-                        <p class="text-danger">155.000 ₫/m2 </p>
+                        <p class="text-danger"> </p>
                         </div>
                     </div>
                 </a>
@@ -57,7 +57,7 @@ const Products = () =>{
                         <img class="card-img-top d-block w-100" src="https://gachonline.vn/images/san-pham/product/resized/5612_240x240.jpg" alt="Card image cap"/>
                         <div class="card-body">
                         <h5 class="card-title">Gạch lát nền VITTO VT3001</h5>
-                        <p class="text-danger">155.000 ₫/m2 </p>
+                        <p class="text-danger"> </p>
                         </div>
                     </div>
                  </a>
@@ -68,7 +68,7 @@ const Products = () =>{
                         <img class="card-img-top d-block w-100" src="https://gachonline.vn/images/san-pham/product/resized/5612_240x240.jpg" alt="Card image cap"/>
                         <div class="card-body">
                         <h5 class="card-title">Gạch lát nền VITTO VT3001</h5>
-                        <p class="text-danger">155.000 ₫/m2 </p>
+                        <p class="text-danger"> </p>
                         </div>
                 </div>
                 </a>
@@ -83,7 +83,7 @@ const Products = () =>{
                     <img class="card-img-top d-block w-100 " src="https://gachonline.vn/images/san-pham/product/resized/3001_240x240.jpg" alt="Card image cap"/>
                     <div class="card-body">
                     <h5 class="card-title">Gach lát nền Vitto - 5612</h5>
-                    <p class="text-danger">155.000 ₫/m2 </p>
+                    <p class="text-danger"> </p>
                     </div>
                 </div>   
                 </a>
@@ -95,7 +95,7 @@ const Products = () =>{
                     <img class="card-img-top d-block w-100" src="https://gachonline.vn/images/san-pham/product/resized/5613_240x240.jpg" alt="Card image cap"/>
                     <div class="card-body">
                         <h5 class="card-title">Gach lát nền Vitto - 5613</h5>
-                        <p class="text-danger">155.000 ₫/m2 </p>
+                        <p class="text-danger"></p>
 
                     </div>
                 </div>
@@ -105,7 +105,7 @@ const Products = () =>{
                         <img class="card-img-top d-block w-100" src="https://gachonline.vn/images/san-pham/product/resized/5612_240x240.jpg" alt="Card image cap"/>
                         <div class="card-body">
                         <h5 class="card-title">Gạch lát nền VITTO VT3001</h5>
-                        <p class="text-danger">155.000 ₫/m2 </p>
+                        <p class="text-danger"></p>
                         </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@ const Products = () =>{
                         <img class="card-img-top d-block w-100" src="https://gachonline.vn/images/san-pham/product/resized/5612_240x240.jpg" alt="Card image cap"/>
                         <div class="card-body">
                         <h5 class="card-title">Gạch lát nền VITTO VT3001</h5>
-                        <p class="text-danger">155.000 ₫/m2 </p>
+                        <p class="text-danger"> </p>
                         </div>
                 </div>
             </div>
@@ -123,7 +123,7 @@ const Products = () =>{
                         <img class="card-img-top d-block w-100" src="https://gachonline.vn/images/san-pham/product/resized/5612_240x240.jpg" alt="Card image cap"/>
                         <div class="card-body">
                         <h5 class="card-title">Gạch lát nền VITTO VT3001</h5>
-                        <p class="text-danger">155.000 ₫/m2 </p>
+                        <p class="text-danger"> </p>
                         </div>
                 </div>
             </div>
