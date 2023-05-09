@@ -63,6 +63,7 @@ const Products = () =>{
                  </a>
             </div>
                 <div class="  col-md-2">
+                <a class="nav-link" href="#">
                     <div class="card" >
                         <img class="card-img-top d-block w-100" src="https://gachonline.vn/images/san-pham/product/resized/5612_240x240.jpg" alt="Card image cap"/>
                         <div class="card-body">
@@ -70,13 +71,14 @@ const Products = () =>{
                         <p class="text-danger">155.000 ₫/m2 </p>
                         </div>
                 </div>
+                </a>
             </div>
         </div>
 
         <div class="row ">
             <a class="nav-link" href="#"><h2>Gạch ốp tường khuyến mãi</h2></a>
                 <div class="  col-md-2 ">
-                
+                <a class="nav-link" href="#">
                 <div class="card" >
                     <img class="card-img-top d-block w-100 " src="https://gachonline.vn/images/san-pham/product/resized/3001_240x240.jpg" alt="Card image cap"/>
                     <div class="card-body">
@@ -84,6 +86,7 @@ const Products = () =>{
                     <p class="text-danger">155.000 ₫/m2 </p>
                     </div>
                 </div>   
+                </a>
                 </div>
             
         
