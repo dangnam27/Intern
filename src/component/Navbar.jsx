@@ -1,8 +1,6 @@
 import React from 'react'
 
 
-
-
 export default function Navbar() {
   return (
 <div>
@@ -15,7 +13,7 @@ export default function Navbar() {
             <i class="fa-solid fa-house"></i></a>
         </li>
         <li class="nav-item ">
-          <a class="nav-link " href='/Introduce.jsx'>GIỚI THIỆU</a>
+          <a class="nav-link " href='./Introduce.jsx'>GIỚI THIỆU</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">GẠCH LÁT NỀN</a>

@@ -4,7 +4,7 @@ import 'Introduct.css' ;
 export default function Introduce() {
   return (
     <div>
-        <div className='introduct'>
+        <div class='introduct'>
         <h1>Giới thiệu gachonline.vn</h1>
         </div>
         <div>

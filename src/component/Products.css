@@ -1,6 +1,19 @@
 .row {
-    padding-left: 150px;
+    padding-left: 100px;
     padding-top: 40px;
     padding-bottom: 30px;
+    padding-right: 10px;
+}
+
+img {
+    object-fit:fill;
    
+    
+}
+img:hover{
+    transform: scale(1.2);
+}
+.image {
+    justify-content: center;
+    padding-left: 50px;
 }
