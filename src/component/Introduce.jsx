@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import 'Introduct.css' ;
 
 export default function Introduce() {
   return (
     <div>
-        <div>
+        <div className='introduct'>
         <h1>Giới thiệu gachonline.vn</h1>
         </div>
         <div>
