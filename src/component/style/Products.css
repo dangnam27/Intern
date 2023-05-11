@@ -6,13 +6,12 @@
 }
 
 img {
-    object-fit:fill;
-   
+    object-fit:fill;   
     
 }
-img:hover{
+/* img:hover{
     transform: scale(1.2);
-}
+} */
 .image {
     justify-content: center;
     padding-left: 50px;
