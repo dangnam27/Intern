@@ -45,7 +45,7 @@ const Products = () =>{
     
         <div class=" col-md-2 ">
             <Link class="nav-link" to="#"> <div class="card" >
-            <img class="card-img-top d-block w-100 "  height='200px' src="https://github.com/dangnam27/Intern/blob/master/src/assets/343273404_625263972829950_3791624434190090707_n.jpg?raw=true" alt="Card image cap"/>
+            <img class="card-img-top d-block w-100 "  height='200px' src="/assets/342993753_140317029027988_4281227234831885095_n.jpg" alt="Card image cap"/>
             <div class="card-body">
             <h5 class="card-title">Gach lát nền Vitto - 5612</h5>
             <p class="text-danger"></p>
