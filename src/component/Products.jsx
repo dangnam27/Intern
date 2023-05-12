@@ -2,6 +2,7 @@ import React,{useState, useEffect} from 'react';
 import './style/Products.css' ;
 import { cleanup } from '@testing-library/react';
 import { Link } from 'react-router-dom';
+import Skeleton from 'react-loading-skeleton';
 
 
 const Products = () =>{
@@ -32,7 +33,18 @@ const Products = () =>{
     const Loading = () => {
         return (
             <>
-            Loanding...
+           <div className="col-md3">
+            <Skeleton height={350}/>
+           </div>
+           <div className="col-md3">
+            <Skeleton height={350}/>
+           </div>
+           <div className="col-md3">
+            <Skeleton height={350}/>
+           </div>
+           <div className="col-md3">
+            <Skeleton height={350}/>
+           </div>
             </>
         )
     }
@@ -44,7 +56,7 @@ const Products = () =>{
         <Link class="nav-link" to="#"><h2>Gạch lát nền khuyến mãi</h2></Link>
     
         <div class=" col-md-2 ">
-            <Link class="nav-link" to="#"> <div class="card" >
+            <Link class="nav-link" to="./Product"> <div class="card" >
             <img class="card-img-top d-block w-100 "  height='200px' src="/assets/342993753_140317029027988_4281227234831885095_n.jpg" alt="Card image cap"/>
             <div class="card-body">
             <h5 class="card-title">Gach lát nền Vitto - 5612</h5>

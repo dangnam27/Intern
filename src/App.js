@@ -8,6 +8,7 @@ import Footer from './component/Footer';
 import '../node_modules/font-awesome/css/font-awesome.min.css';
 import { Routes, Route } from "react-router-dom";
 import Introduce from "./component/Introduce";
+import Product from "./component/Product";
 
 function App() {
   return (
@@ -17,10 +18,9 @@ function App() {
           <Route path="/" element= {<Home/>}></Route>
           <Route path="/Home" element= {<Home/>}/>
           <Route path="/Introduce" element= {<Introduce/>}/>
-         
+          <Route path="/Home/Product" element= {<Product/>}/>
     </Routes>
     <Footer/> 
-    
     </>
   );
 }
