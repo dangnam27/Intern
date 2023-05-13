@@ -57,9 +57,9 @@ const Products = () =>{
     
         <div class=" col-md-2 ">
             <Link class="nav-link" to="./Product"> <div class="card" >
-            <img class="card-img-top d-block w-100 "  height='200px' src="/assets/342993753_140317029027988_4281227234831885095_n.jpg" alt="Card image cap"/>
+            <img class="card-img-top d-block w-100 "  height='200px' src={Products.imageUrl} alt="Card image cap"/>
             <div class="card-body">
-            <h5 class="card-title">Gach lát nền Vitto - 5612</h5>
+            <h5 class="card-title">{Products.name}</h5>
             <p class="text-danger"></p>
             </div>
         </div>
