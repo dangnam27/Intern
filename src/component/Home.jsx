@@ -18,14 +18,14 @@ export default function Home() {
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="https://gachonline.vn/images/slide/slide2.jpg" class="d-block home" alt="..."/>
+      <img src="/assets//Untitled-2.jpg" class="d-block home" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>GẠCH ỐP TƯỜNG</h5>
         <p>Với thiết kế đa dạng cùng kết cấu vững chắc và độ bền với thới gian</p>
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="/assets//Untitled-2.jpg" class="d-block home" alt="..."/>
+      <img src="https://gachonline.vn/images/slide/slide2.jpg " class="d-block home" alt="..."/>
       
     </div>
     <div class="carousel-item" data-bs-interval="2000">
