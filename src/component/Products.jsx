@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react'
 import './style/Products.css'
 import { NavLink } from 'react-router-dom'
 import Skeleton from 'react-loading-skeleton'
-import axios from 'axios'
 
 const Products = () => {
     const [data, setData] = useState([])
@@ -49,6 +48,21 @@ const Products = () => {
     const ShowProducts = () => {
         return (
             <>
+                <div className="buttons d-flex justify-content-center mb-5 pb-5">
+                    <button className="btn btn-outline-danger m-1 fs-2" onClick={() => setFilter(data)}>TẤT CẢ</button>
+                    <button className="btn btn-outline-danger m-1 fs-2" onClick={() => filter.Product("Gạch lát nền")}>
+                       GẠCH LÁT NỀN
+                    </button>
+                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product(" Gạch ốp tường")}>
+                        GẠCH ỐP TƯỜNG
+                    </button>
+                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product("Gạch trang trí")}>
+                        GẠCH TRANG TRÍ
+                    </button>
+                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product("Gạch lát sân vườn")}>
+                        GẠCH LÁT SÂN VƯỜN
+                    </button>
+                </div>
                 {filter &&
                     filter.map((product) => {
                         return (
@@ -61,7 +75,7 @@ const Products = () => {
                                         <img
                                             src={product.imageUrl}
                                             className="card-img-top"
-                                            alt={product.title}
+                                            alt={product.link_gach}
                                             height="250px"
                                         />
                                         <div className=" card-body">
@@ -86,7 +100,7 @@ const Products = () => {
 
     return (
         <div>
-            <h1 className="text-center p-5">Sản phẩm</h1>
+            <h1 className="text-center p-5"></h1>
             <div className="row justify-content-center">
                 {loading ? <Loading /> : <ShowProducts />}
             </div>
