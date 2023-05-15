@@ -1,13 +1,13 @@
 import React from 'react'
-import { useSelector } from 'react-redux'
+// import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
 
 
 
 export default function Navbar() {
 
-  const state = useSelector((state) => state.handleCart)
-  console.log(state)
+  // const state = useSelector((state) => state.handleCart)
+  
   return (
 <div>
     <nav class="navbar navbar-expand-lg bg-primary  ">
@@ -44,7 +44,7 @@ export default function Navbar() {
       </div>
       <div className="buttons p-1">
         <Link to="/cart" className=" btn btn-outline-dark ms-2" color='#009d05'>
-            GIỎ HÀNG ({state})
+            GIỎ HÀNG ()
         </Link>
       </div>
     </div>

@@ -27,6 +27,7 @@ const Products = () => {
         }
         getProducts()
     }, [])
+    console.log(filter)
     const Loading = () => {
         return (
             <>
@@ -100,6 +101,7 @@ const Products = () => {
 
     return (
         <div>
+        
             <h1 className="text-center p-5"></h1>
             <div className="row justify-content-center">
                 {loading ? <Loading /> : <ShowProducts />}
