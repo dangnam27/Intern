@@ -1,18 +1,19 @@
+import { Input } from '@mui/material'
 import React, { useState, useEffect } from 'react'
-import './style/Products.css'
 import { NavLink } from 'react-router-dom'
-import Skeleton from 'react-loading-skeleton'
 
-const Products = () => {
-    const [data, setData] = useState([])
-    const [filter, setFilter] = useState(data)
+
+
+function Tiles() {
+    const [data1, setData] = useState([])
+    const [filter, setFilter] = useState(data1)
     const [loading, setloading] = useState(false)
     let componentMount = true
 
     useEffect(() => {
         const getProducts = async () => {
             setloading(true)
-            fetch('http://localhost:3000/gach')
+            fetch('http://localhost:3000/gach/')
                 .then((res) => res.json())
                 .then((res) => {
                     if (componentMount) {
@@ -27,39 +28,19 @@ const Products = () => {
         }
         getProducts()
     }, [])
-    console.log(filter)
     const Loading = () => {
-        return (
-            <>
-               Loading...
-            </>
-        )
+        return <>Loading...</>
     }
-    const ShowProducts = () => {
-        return (
-            <>
-                <div className="buttons d-flex justify-content-center mb-3 pt-1">
-                    <button className="btn btn-outline-danger m-1 fs-2" onClick={() => setFilter(data)}>TẤT CẢ</button>
-                    <button className="btn btn-outline-danger m-1 fs-2" onClick={() => filter.Product("Gạch lát nền")}>
-                       GẠCH LÁT NỀN
-                    </button>
-                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product(" Gạch ốp tường")}>
-                        GẠCH ỐP TƯỜNG
-                    </button>
-                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product("Gạch trang trí")}>
-                        GẠCH TRANG TRÍ
-                    </button>
-                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product("Gạch lát sân vườn")}>
-                        GẠCH LÁT SÂN VƯỜN
-                    </button>
-                </div>
-                {filter &&
+    const ShowProduct = () => {
+            return (
+                <>
+                    {filter &&
                     filter.map((product) => {
                         return (
                             <>
                                 <div className=" col-md-3 mb-4 ">
                                     <div
-                                        className="card h-100 text-center p-4"
+                                        className="card h-150 text-center p-4"
                                         key={product.id}
                                     >
                                         <img
@@ -84,17 +65,20 @@ const Products = () => {
                             </>
                         )
                     })}
-            </>
-        )
+                </>
+            )
     }
-
+    
     return (
         <div>
+           <div>
         
-            <div className="row justify-content-center">
-                {loading ? <Loading /> : <ShowProducts />}
-            </div>
+        <div className="row justify-content-center">
+            {loading ? <Loading /> : <ShowProduct />}
+        </div>
+    </div>
         </div>
     )
 }
-export default Products
+
+export default Tiles;

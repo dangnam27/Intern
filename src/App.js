@@ -9,6 +9,7 @@ import '../node_modules/font-awesome/css/font-awesome.min.css';
 import { Routes, Route } from "react-router-dom";
 import Introduce from "./component/Introduce";
 import Product from "./component/Product";
+import Tiles from "./component/products/Tiles";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/Home" element= {<Home/>}/>
           <Route path="/Introduce" element= {<Introduce/>}/>
           <Route path="/Product/:id" element= {<Product/>}/>
+          <Route path="/Tiles" element= {<Tiles/>}/>
 
     </Routes>
     <Footer/> 
