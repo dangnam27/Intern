@@ -50,7 +50,7 @@ export default function Introduce() {
                     tư vấn chặt chẽ, luôn lắng nghe mọi vướng mắc của KH.
                 </p>
                 <p>
-                    Hãy đến với <a href="#">gachonline.vn</a> luôn đồng hành
+                    Hãy đến với <a href="#">gachmenphudaiphat.vn</a> luôn đồng hành
                     cùng Quý khách hàng, cam kết mang lại cho KH sự hài lòng hơn
                     cả mong đợi.
                 </p>
