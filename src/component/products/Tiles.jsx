@@ -13,7 +13,7 @@ function Tiles() {
     useEffect(() => {
         const getProducts = async () => {
             setloading(true)
-            fetch('https://raw.githubusercontent.com/dangnam27/Intern/master/db.json')
+            fetch('https://raw.githubusercontent.com/dangnam27/Intern/master/data.json')
                 .then((res) => res.json())
                 .then((res) => {
                     if (componentMount) {
