@@ -12,7 +12,7 @@ const Products = () => {
     useEffect(() => {
         const getProducts = async () => {
             setloading(true)
-            fetch('http://localhost:3000/gach')
+            fetch('https://raw.githubusercontent.com/sonnh7289/phudaiphat/main/data-gach.json')
                 .then((res) => res.json())
                 .then((res) => {
                     if (componentMount) {
@@ -27,7 +27,7 @@ const Products = () => {
         }
         getProducts()
     }, [])
-    console.log(filter)
+    
     const Loading = () => {
         return (
             <>
@@ -35,32 +35,34 @@ const Products = () => {
             </>
         )
     }
+    console.log(filter);
     const ShowProducts = () => {
         return (
             <>
                 <div className="buttons d-flex justify-content-center mb-3 pt-1">
                     <button className="btn btn-outline-danger m-1 fs-2" onClick={() => setFilter(data)}>TẤT CẢ</button>
-                    <button className="btn btn-outline-danger m-1 fs-2" onClick={() => filter.Product("Gạch lát nền")}>
+                    <button className="btn btn-outline-danger m-1 fs-2" onClick={() => filter.map("Gạch lát nền")}>
                        GẠCH LÁT NỀN
                     </button>
-                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product(" Gạch ốp tường")}>
+                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.product(" Gạch ốp tường")}>
                         GẠCH ỐP TƯỜNG
                     </button>
-                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product("Gạch trang trí")}>
+                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.product("Gạch trang trí")}>
                         GẠCH TRANG TRÍ
                     </button>
-                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product("Gạch lát sân vườn")}>
+                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.product("Gạch lát sân vườn")}>
                         GẠCH LÁT SÂN VƯỜN
                     </button>
                 </div>
-                {filter &&
-                    filter.map((product) => {
+                
+                {filter && filter.map((product) => {
+                        
                         return (
                             <>
                                 <div className=" col-md-3 mb-4 ">
                                     <div
                                         className="card h-100 text-center p-4"
-                                        key={product.id}
+                                        key={product.link_gach}
                                     >
                                         <img
                                             src={product.imageUrl}
@@ -73,7 +75,7 @@ const Products = () => {
                                                 {product.name}
                                             </p>
                                             <NavLink
-                                                to={`/Product/${product.id}`}
+                                                to={`/Product/`}
                                                 className="btn btn-outline-dark"
                                             >
                                                 MUA NGAY{' '}

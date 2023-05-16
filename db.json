@@ -1,84 +1,1449 @@
-{
-    "gach": [
-        {
-            
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/6874_240x240.jpg",
-            "link_gach": "/gach-lat-nen/vitto-6874",
-            "name": "G\u1ea1ch l\u00e1t n\u1ec1n VITTO-6874",
-            "id": "1"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/z2241802497261_771ddc5262677dd16848b84f2d2c0cd9_240x240.jpg",
-            "link_gach": "/gach-lat-nen/catalan-8799",
-            "name": "G\u1ea1ch l\u00e1t n\u1ec1n Catalan-8799",
-            "id": "2"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/z2241802494086_33de921dfe3e189b05d9fd0213defb06_240x240.jpg",
-            "link_gach": "/gach-lat-nen/catalan-8086",
-            "name": "G\u1ea1ch l\u00e1t n\u1ec1n Catalan-8086",
-            "id": "3"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/z2241802507677_cfdd7dafdc4d8ec00747422e71dfd835_240x240.jpg",
-            "link_gach": "/gach-lat-nen/catalan-8032",
-            "name": "G\u1ea1ch l\u00e1t n\u1ec1n Catalan-8032",
-            "id": "4"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/z2241802505492_a305105da8cc8389a6f86a1d4112ef69_240x240.jpg",
-            "link_gach": "/gach-lat-nen/catalan-8031",
-            "name": "G\u1ea1ch l\u00e1t n\u1ec1n Catalan-8031"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/hl-126825_240x240.jpg",
-            "link_gach": "/gach-lat-nen/trung-qu\u1ed1c-hl12682",
-            "name": "G\u1ea1ch \u1ed1p l\u00e1t Trung Qu\u1ed1c-HL12682"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/s12908_240x240.jpg",
-            "link_gach": "/gach-lat-nen/trung-qu\u1ed1c-tq-60-120-s12908",
-            "name": "G\u1ea1ch \u1ed1p l\u00e1t Trung Qu\u1ed1c - TQ 60*120-S12908"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/hl126834_240x240.jpg",
-            "link_gach": "/gach-lat-nen/rung-qu\u1ed1c-tq-60-120-hl12683",
-            "name": "G\u1ea1ch \u1ed1p l\u00e1t Trung Qu\u1ed1c - TQ 60*120-HL12683"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/kj-8303_240x240.jpg",
-            "link_gach": "/gach-lat-nen/trung-qu\u1ed1c-kj8303",
-            "name": "G\u1ea1ch l\u00e1t n\u1ec1n Trung Qu\u1ed1c - KJ8303"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/aq-8226_240x240.jpg",
-            "link_gach": "/gach-lat-nen/trung-qu\u1ed1c-aq-8226",
-            "name": "G\u1ea1ch l\u00e1t n\u1ec1n Trung Qu\u1ed1c - AQ 8226"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/8080 \u0111en _240x240.jpg",
-            "link_gach": "/gach-lat-nen/trung-qu\u1ed1c-\u0111en-b\u00f3ng",
-            "name": "G\u1ea1ch \u1ed1p l\u00e1t Trung Qu\u1ed1c - \u0110en b\u00f3ng"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/z2417902256873_128029828179a0ffd4b8c5b47945552c_240x240.jpg",
-            "link_gach": "/gach-lat-nen/mikado-mgb4004",
-            "name": "G\u1ea1ch Trang Tr\u00ed Mikado-MGB4004"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/z2417902231222_85211eba80a70b89704aa48e07e4ad9d_240x240.jpg",
-            "link_gach": "/gach-lat-nen/mikado-mgb4006",
-            "name": "G\u1ea1ch Trang Tr\u00ed Mikado-MGB4006"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/z2417902159272_98d81a73a2669f6b3b54449212ff800e_240x240.jpg",
-            "link_gach": "/gach-lat-nen/mikado-mgb4005",
-            "name": "G\u1ea1ch Trang Tr\u00ed Mikado-MGB4005"
-        },
-        {
-            "imageUrl": "https://gachonline.vn/images/san-pham/product/resized/z2417902274365_cf8556a1f6cde591ceb09770115fe64e_240x240.jpg",
-            "link_gach": "/gach-lat-nen/mikado-mgb4007",
-            "name": "G\u1ea1ch Trang Tr\u00ed Mikado-MGB4007"
-        }
-    ]
-}
+[
+    {
+        "tên": "Gạch ốp lát granite vân đá màu nâu men kim cương C... ",
+        "giá": "Từ 345.000 ₫ – 395.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 1000x1000 mm ",
+        "đánh giá": "4.5 ",
+        "id": 1,
+        "link": "https://cmctiles.vn/gach-op-lat/cgd1010006s2.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2023/02/gach-op-lat-CGD1010006S2.jpg"
+    },
+    {
+        "tên": "Gạch ốp lát granite màu xám trắng men kim cương CG... ",
+        "giá": "Từ 345.000 ₫ – 395.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 1000x1000 mm ",
+        "đánh giá": "5.0 ",
+        "id": 2,
+        "link": "https://cmctiles.vn/granite/cgd1010005s2.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2023/02/CGD1010005S2-1-600x600.jpg"
+    },
+    {
+        "tên": "Gạch ốp lát vân đá trắng màu xám CGD1010002S2 ",
+        "giá": "Từ 345.000 ₫ – 395.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 1000x1000 mm ",
+        "đánh giá": "5.0 ",
+        "id": 3,
+        "link": "https://cmctiles.vn/gach-op-lat/cgd1010002s2.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2023/02/Gach-lat-van-da-CGD1010002S2.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường giả gỗ, hoa tiết hoa văn CPD40800... ",
+        "giá": "Từ 230.000 ₫ – 280.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 400x800 mm ",
+        "đánh giá": "4.0 ",
+        "id": 4,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/bo-gach-op-tuong-gia-go-cpd4080017-18-19s2.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2023/02/Bo-gach-op-tuong-CPD4080017S2-CPD4080018S2-CPD4080019S2.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn giả bê tông họa tiết đối xứng mà... ",
+        "giá": "Từ 120.000 ₫ – 170.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 500x500 mm ",
+        "đánh giá": "5.0 ",
+        "id": 5,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-san-vuon-mc5538s6.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2023/02/gach-lat-san-vuon-mc5538s6.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn giả sỏi họa tiết lá màu xám trắn... ",
+        "giá": "Từ 120.000 ₫ – 170.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 500x500 mm ",
+        "đánh giá": "4.0 ",
+        "id": 6,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-san-vuon-mc5537s6.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2023/02/gach-lat-san-vuon-MC5537S6.jpg"
+    },
+    {
+        "tên": "Gạch lát sân vườn giả sỏi màu ghi DGS 3061 ",
+        "giá": "Từ 170.000 ₫ – 220.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 7,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-san-vuon-gia-soi-mau-ghi-dgs-3061.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/11/Screen-Shot-2022-11-28-at-2.21.00-PM-e1672894073831.png"
+    },
+    {
+        "tên": "Gạch lát nền màu vàng kem vân đá trắng ngọc LX 8841 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 8,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-8841.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-8841-scaled-1-e1660621776913-600x600.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp màu trắng, xám họa tiết hoa sen và hoa ... ",
+        "giá": "Từ 145.000 ₫ – 195.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 9,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-36148-49-50.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LD-36148-49-50-30.jpg"
+    },
+    {
+        "tên": "Gạch lát nền porcelain màu trắng xanh vân đá LX 8846 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 10,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-8846.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/06/LX-6671-600x600.jpg"
+    },
+    {
+        "tên": "Gạch lát nền Porcelain màu nâu giả gỗ LX 8842 ",
+        "giá": "Từ 210.000 ₫ – 260.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 11,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-8842.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-8842-scaled-1-e1660622901606-600x600.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu nâu đồng, trắng ánh kim và họ... ",
+        "giá": "Từ 145.000 ₫ – 195.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "5.0 ",
+        "id": 12,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-36151-52d-53.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LD-3651-52D-53.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu vàng kem chấm phá hổ phách LX 6670 ",
+        "giá": "Từ 160.000 ₫ – 210.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 13,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6670.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6670-1-scaled-1-e1660616185425-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu trắng xám vân mây xám LX 8844 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 14,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-8844.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-8844-scaled-1-e1661224248103-600x600.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường Porcelain men bóng vân đá LX36609-10... ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 15,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-lx-36609-10d-11.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-36609-10-e1662368737891-600x600.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu kem và hoạ tiết sống động LD ... ",
+        "giá": "Từ 145.000 ₫ – 195.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 16,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-36157-58-59.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LD-36157-58-59-30.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu trắng xanh vân mây ánh ngọc LX 8836 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 17,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-8836.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-8836-a-scaled-1-e1660620414673-600x600.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu trắng vân xám nhạt LX 8830 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 18,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/lx8830.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/LX-8830-FACE-1.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu trắng - xám LD 36154-55-56 ",
+        "giá": "Từ 145.000 ₫ – 195.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 19,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-36154-55-56.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LD-36154-55-56-30.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu xám nhạt vân đá cẩm thạch trắng L... ",
+        "giá": "Từ 160.000 ₫ – 210.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 20,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6668.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6668-a-scaled-1-e1659941916912-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu vàng kem vân đá trắng LX 6666 ",
+        "giá": "Từ 160.000 ₫ – 210.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 21,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6666.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6666-a-scaled-1-e1659940941552-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu trắng vân mây xám LX 6669 ",
+        "giá": "Từ 160.000 ₫ – 210.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 22,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6669.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6669-a-scaled-1-e1659942498968-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu xám nhạt vân đá cẩm thạch trắng L... ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 23,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/lx8838.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/LX-8838.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu kem vân đá cẩm thạch LX 8835 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 24,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/lx8835.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/LX-8835.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu xám khói vân đá KC 66008 ",
+        "giá": "Từ 180.000 ₫ – 230.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 25,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/kc66008.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/KC66008-1.jpg"
+    },
+    {
+        "tên": "Gạch lát màu đen chấm vàng vân cát PTK 88001 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 26,
+        "link": "https://cmctiles.vn/gach-op-lat/gachlatptk88001/",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/10/PTK-68001-1-600x600.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu nâu trầm lạnh giả gỗ LX 6667 ",
+        "giá": "Từ 170.000 ₫ – 220.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 27,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/lx6667.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/LX-6667-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp chân tường màu ghi đậm vân đen DT 672 ",
+        "giá": "Từ 155.000 ₫ – 205.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 130x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 28,
+        "link": "https://cmctiles.vn/gachopchantuongdt672.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-30-at-9.48.17-AM.png"
+    },
+    {
+        "tên": "Gạch lát nền Porcelain vân đá màu trắng, xanh LX 6671 ",
+        "giá": "Từ 160.000 ₫ – 210.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 29,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6671.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/06/LX-6671-600x600.jpg"
+    },
+    {
+        "tên": "Gạch lát sân vườn họa tiết hoa văn cổ điển màu ghi... ",
+        "giá": "Từ 120.000 ₫ – 170.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 30,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3063.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-2.15.01-PM.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn họa tiết hoa văn cổ điển tông và... ",
+        "giá": "Từ 120.000 ₫ – 170.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 31,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3062.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-11.21.04-AM-600x600.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn giả sỏi tông vàng DGS 3060 ",
+        "giá": "Từ 110.000 ₫ – 160.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 32,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3060.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-10.56.43-AM.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn giả sỏi men bóng màu ghi-trắng D... ",
+        "giá": "Từ 110.000 ₫ – 160.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 33,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3058.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-10.43.40-AM.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn giả sỏi men bóng màu xám - trắng... ",
+        "giá": "Từ 110.000 ₫ – 160.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 34,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3059.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-10.33.24-AM.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn giả sỏi tông xanh DGS 3056 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 35,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3056.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-10.22.02-AM.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn giả sỏi men bóng màu vàng kem DG... ",
+        "giá": "Từ 110.000 ₫ – 160.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 36,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3055.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-9.53.16-AM.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn họa tiết cổ điển màu xám DGS 3054 ",
+        "giá": "Từ 110.000 ₫ – 160.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 37,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3054.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-9.41.27-AM.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn men sugar hoạ tiết cổ điển màu x... ",
+        "giá": "Từ 110.000 ₫ – 160.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 38,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3052.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-9.31.39-AM.png"
+    },
+    {
+        "tên": "Gạch Bông màu nâu - xám - xanh thẫm BC 3002 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 39,
+        "link": "https://cmctiles.vn/gach-bong-bc3002.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/BC-3002-3-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch bông màu xanh navy - cam đất BC 3001 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 40,
+        "link": "https://cmctiles.vn/gach-bong-bc3001.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/BC-3001-2--600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu nâu vân đá sọc dưa trắng KC 66002 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "5.0 ",
+        "id": 41,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/kc66002.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/KC66002.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu trắng đen xám hoạ tiết xương ... ",
+        "giá": "Từ 145.000 ₫ – 195.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 42,
+        "link": "https://cmctiles.vn/ld-36126-dd-36127-ld-3697.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/08/Screen-Shot-2022-08-29-at-5.55.38-PM.png"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu trắng hoạ tiết hoa mộc lan LD... ",
+        "giá": "Từ 145.000 ₫ – 195.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 43,
+        "link": "https://cmctiles.vn/ld-3601-ld-3601ds8-ld-3601vs8.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/08/Screen-Shot-2022-08-29-at-4.12.58-PM.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn giả sỏi màu vàng kem -trắng DGS ... ",
+        "giá": "Từ 110.000 ₫ – 160.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 44,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3057.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-10.07.07-AM.png"
+    },
+    {
+        "tên": "Gạch ốp tường màu trắng kem LD 36125S8 ",
+        "giá": "Từ 120.000 ₫ – 170.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 45,
+        "link": "https://cmctiles.vn/gachopld36125s8.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-05-at-1.23.29-PM.png"
+    },
+    {
+        "tên": "Gạch ốp chân tường màu xanh lá nhạt vân mây trắng ... ",
+        "giá": "Từ 155.000 ₫ – 205.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 130x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 46,
+        "link": "https://cmctiles.vn/gachopchantuongdt663.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-30-at-9.32.15-AM.png"
+    },
+    {
+        "tên": "Gạch ốp chân tường màu trắng vân mây đỏ đô DT 671 ",
+        "giá": "Từ 155.000 ₫ – 205.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 130x600 mm ",
+        "đánh giá": "5.0 ",
+        "id": 47,
+        "link": "https://cmctiles.vn/gachopchantuongdt671.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-27-at-11.09.48-AM-600x288.png"
+    },
+    {
+        "tên": "Gạch ốp chân tường màu vàng nhạt vân mây trắng DT 612 ",
+        "giá": "Từ 155.000 ₫ – 205.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 130x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 48,
+        "link": "https://cmctiles.vn/gachopchantuongdt612.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-27-at-10.09.27-AM-600x292.png"
+    },
+    {
+        "tên": "Gạch ốp chân tường màu ghi đậm vân đen DT 672 ",
+        "giá": "Từ 155.000 ₫ – 205.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 130x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 49,
+        "link": "https://cmctiles.vn/gachopchantuongdt672-2.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/10/Screen-Shot-2022-10-05-at-11.57.48-AM.png"
+    },
+    {
+        "tên": "Gạch lát sân vườn men sugar màu be - nâu cafe DGS ... ",
+        "giá": "Từ 110.000 ₫ – 160.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 50,
+        "link": "https://cmctiles.vn/gachlatsanvuondgs3040.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-9.07.29-AM.png"
+    },
+    {
+        "tên": "Gạch ốp chân tường giả gỗ màu nâu trầm DT 602 ",
+        "giá": "Từ 155.000 ₫ – 205.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 130x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 51,
+        "link": "https://cmctiles.vn/gachopchantuongdt602.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-27-at-9.15.40-AM-600x148.png"
+    },
+    {
+        "tên": "Gạch ốp chân tường màu xám vân mây trắng DT 662 ",
+        "giá": "Từ 155.000 ₫ – 205.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 130x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 52,
+        "link": "https://cmctiles.vn/gachopchantuongdt662.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-27-at-10.39.32-AM-600x286.png"
+    },
+    {
+        "tên": "Gạch ốp chân tường giả gỗ màu nâu đậm DT 661 ",
+        "giá": "Từ 155.000 ₫ – 205.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 130x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 53,
+        "link": "https://cmctiles.vn/gachopchantuongdt661.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/09/Screen-Shot-2022-09-27-at-9.44.00-AM-600x146.png"
+    },
+    {
+        "tên": "Gạch ốp chân tường màu vàng kem chấm trắng DT 666 ",
+        "giá": "Từ 155.000 ₫ – 205.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 130x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 54,
+        "link": "https://cmctiles.vn/gachopchantuongdt666.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2022/10/Screen-Shot-2022-10-05-at-1.27.38-PM-600x286.png"
+    },
+    {
+        "tên": "Gạch lát nền màu xám nhạt vân cẩm thạch trắng LX 8843 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 55,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-8843.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-8843-scaled-1-e1660624100918-600x600.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu vàng be vân mây mềm mại LX 8820 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 56,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-8820.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-8820-scaled-1-e1660617874204-600x600.jpg"
+    },
+    {
+        "tên": "Gạch lát nền vàng kem chấm phá hổ phách LX 8845 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 57,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-8845.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-8845-a-e1661224997635-563x600.jpg"
+    },
+    {
+        "tên": "Sparkling Black QS3203 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 58,
+        "link": "https://cmctiles.vn/da-nhan-tao/sparkling-black-qs3203.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS3203.jpg"
+    },
+    {
+        "tên": "Pure Black QS2703 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 59,
+        "link": "https://cmctiles.vn/da-nhan-tao/pure-black-qs2703.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2703.jpg"
+    },
+    {
+        "tên": "Ocean Storm QS2407 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 60,
+        "link": "https://cmctiles.vn/da-nhan-tao/ocean-storm-qs2407.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2407.jpg"
+    },
+    {
+        "tên": "Caligo Grey QS2302 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 61,
+        "link": "https://cmctiles.vn/da-nhan-tao/caligo-grey-qs2302.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2302.jpg"
+    },
+    {
+        "tên": "Marbella Grey QS2101 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 62,
+        "link": "https://cmctiles.vn/da-nhan-tao/marbella-grey-qs2101.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2101.jpg"
+    },
+    {
+        "tên": "Galant Grey QS2202 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 63,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/galant-grey-qs2202.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2202.jpg"
+    },
+    {
+        "tên": "Marbella White QS2603 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 64,
+        "link": "https://cmctiles.vn/da-nhan-tao/marbella-white-qs2603.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2603-1.jpg"
+    },
+    {
+        "tên": "Antico Cloud QS2408 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 65,
+        "link": "https://cmctiles.vn/da-nhan-tao/antico-cloud-qs2408.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2408.jpg"
+    },
+    {
+        "tên": "Marbell Montclair QS2401 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 66,
+        "link": "https://cmctiles.vn/da-nhan-tao/marbell-montclair-qs2401.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2401.jpg"
+    },
+    {
+        "tên": "Cloud Bay QS2201 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 67,
+        "link": "https://cmctiles.vn/da-nhan-tao/cloud-bay-qs2201.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2201.jpg"
+    },
+    {
+        "tên": "Carrara White QS2204 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 68,
+        "link": "https://cmctiles.vn/da-nhan-tao/carrara-white-qs2204.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2204-scaled-1.jpg"
+    },
+    {
+        "tên": "Alabaster White QS2403 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 69,
+        "link": "https://cmctiles.vn/da-nhan-tao-elistone/alabaster-white-qs2403.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS2403-4.jpg"
+    },
+    {
+        "tên": "Iced White QS3108 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 70,
+        "link": "https://cmctiles.vn/da-nhan-tao/iced-white-qs3108.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS3108-scaled-1.jpg"
+    },
+    {
+        "tên": "Calacatta Nut QS1301 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 71,
+        "link": "https://cmctiles.vn/da-nhan-tao/calacatta-nut-qs1301.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS1301.jpg"
+    },
+    {
+        "tên": "Calacatta Grey QS1310 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 72,
+        "link": "https://cmctiles.vn/da-nhan-tao/calacatta-grey-qs1310.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS1310-3.jpg"
+    },
+    {
+        "tên": "Calacatta Brown QS1401 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 73,
+        "link": "https://cmctiles.vn/da-nhan-tao/calacatta-brown-qs1401.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS1401-1-1.jpg"
+    },
+    {
+        "tên": "Calacatta Bella QS1306 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 74,
+        "link": "https://cmctiles.vn/da-nhan-tao/calacatta-bella-qs1306.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS1306.jpg"
+    },
+    {
+        "tên": "Calacatta Verona QS1206 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 75,
+        "link": "https://cmctiles.vn/da-nhan-tao/calacatta-verona-qs1206.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS1206.jpg"
+    },
+    {
+        "tên": "Calacatta Twilight QS1501 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 76,
+        "link": "https://cmctiles.vn/da-nhan-tao/calacatta-twilight-qs1501.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS1501-2.jpg"
+    },
+    {
+        "tên": "Calacatta Bianco QS1101 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 77,
+        "link": "https://cmctiles.vn/da-nhan-tao/calacatta-bianco-qs1101.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS1101.jpg"
+    },
+    {
+        "tên": "Calacatta Special QS1402 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 1650x3200 mm ",
+        "đánh giá": "0.0 ",
+        "id": 78,
+        "link": "https://cmctiles.vn/da-nhan-tao/calacatta-special-qs1402.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/QS1402-Calacatta-Special-1-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu vàng kem nhạt LX 6655 ",
+        "giá": "Từ 160.000 ₫ – 210.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 79,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6655.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6655-scaled-1-e1659934788252-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu nâu sáng giả gỗ LX 6665 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 80,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6665.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6665-scaled-1-e1659940381694-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu xám trắng vân mây LX 6664 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 81,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6664.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6664-A-scaled-1-e1659939747723-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu xám nhạt vân cẩm thạch trắng LX 6663 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 82,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6663.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6663-a-scaled-1-e1659939283222-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát màu kem vân đá cẩm thạch LX 6662 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 83,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6662.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6662-a-scaled-1-e1659938757442-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát màu vàng be vân mây mềm mại LX 6645 ",
+        "giá": "Từ 160.000 ₫ – 210.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 84,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6645.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6645-scaled-1-e1659928294704-600x600.jpeg"
+    }
+,
+    {
+        "tên": "Bộ gạch ốp trắng - gạch điểm màu ghi họa tiết hoa ... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 400x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 85,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-48030-31d-32/",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LD-48030-31D-32.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu trắng ngà họa tiết cát bụi LD... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 400x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 86,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-48026-27.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LD-48026-27-scaled-1.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu be LD 48024-DD 48025 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 400x800 mm ",
+        "đánh giá": "4.5 ",
+        "id": 87,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-48024-25.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LD-48024-DD-48025-scaled-1.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu trắng kem ánh vàng LD 48022- ... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 400x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 88,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-48022-23.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LD-48022-23D-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường màu xám - trắng thời thượng, họa tiế... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 89,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-lx-36612m.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-36612.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu xám - trắng thời thượng, họa ... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 90,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-lx-36603-4d-5.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-36603-4D-5V.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường màu trắng sứ họa tiết phong lan t... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 91,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-lx-36602-2d-2v.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-36602.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường màu trắng sứ họa tiết đôi hươu vàng ... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 92,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-lx-36601.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-36601.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC màu nâu sẫm W 159006 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x900 mm ",
+        "đánh giá": "0.0 ",
+        "id": 93,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-thanh-go-cmc-w-159006.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/W-159006.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ màu ghi lạnh W 159001 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x900 mm ",
+        "đánh giá": "0.0 ",
+        "id": 94,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-thanh-go-cmc-w-159001.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/W-159001.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC màu nâu trầm viền đen W 158013 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 95,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-thanh-go-cmc-w-158013.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/13.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC W 158012 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 96,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-thanh-go-cmc-w-158012.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/12-pc-scaled-1.jpg"
+    }
+,
+    {
+        "tên": "Gạch thanh gỗ CMC W 158008 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 97,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-thanh-go-cmc-w-158008.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/8-1-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC màu hạt dẻ thớ gỗ xoắn tròn W 15... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 98,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-thanh-go-cmc-w-158009.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/9-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC màu vàng kem W 158006 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 99,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-thanh-go-cmc-w-158006.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/6-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát KC 89009 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 100,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-89009.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-89009-a-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền đen bóng vân vàng đồng KC 89005 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 101,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-89005.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-89005-a-scaled-1-e1659934184469-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu sơn cước KC 89004 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 102,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-89004.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-89004-scaled-1-e1659933947341-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu đen chấm cam KC 89003 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 103,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-89003.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-89003-scaled-1-300x300-2-e1659934372897.jpeg"
+    },
+    {
+        "tên": "Gạch lát KC 66009 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 104,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-66009.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-660091-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát màu đen chấm cam KC 66007 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 105,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-66007.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-66007-scaled-1-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát KC 66006 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 106,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-66006.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-66006-1-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát màu đen bóng đường vân vàng đồng KC 66005 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 107,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-66005.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-66005-scaled-1-e1659932288166-600x475.jpeg"
+    },
+    {
+        "tên": "Gạch lát màu sơn cước KC 66003 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 108,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-66003.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-66003-2-e1661138487284-600x600.jpg"
+    }
+,
+    {
+        "tên": "Gạch lát màu trắng sứ KC 66000 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 109,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-kc-66000.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/KC-66000-scaled-1-e1659931903513-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền trắng xám họa tiết phối màu đá đa dạn... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 110,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-gx-6814.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/GX-6814-a-scaled-1-e1659931652906-600x580.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền vàng cát họa tiết phối đa dạng màu đá... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 111,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-gx-6812.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/GX-6812-scaled-1-e1659931313387-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền xám trắng họa tiết phối đa dạng màu đ... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 112,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-gx-6811.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/GX-6811-a-scaled-1-e1659930930998-600x518.jpeg"
+    },
+    {
+        "tên": "Gạch lát nền màu vàng kem vân đá GX 6807 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 113,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-gx-6807.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/GX-6807-scaled-1-e1659930199966-600x600.jpeg"
+    },
+    {
+        "tên": "Gạch lát GX 6803 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 114,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-gx-6803.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/GX-6803-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu xám trắng vân đá marble GX 6802 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "5.0 ",
+        "id": 115,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-gx-6802.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/GX-6802-co-the-ket-hop-cung-GX-6801-Optional-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát GX 6804 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 116,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-gx-6804.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/GX-6804-scaled-1.jpg"
+    },
+    {
+        "tên": "GẠCH LÁT LX 8824 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 117,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-8824.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-8824.jpg"
+    },
+    {
+        "tên": "GẠCH LÁT LX 6637 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 118,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-lx-6637.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/LX-6637.jpg"
+    },
+    {
+        "tên": "GẠCH LÁT NỀN MC 5531 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 500x500 mm ",
+        "đánh giá": "0.0 ",
+        "id": 119,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gach-lat-nen-mc-5531.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/MC-5531.jpg"
+    },
+    {
+        "tên": "GẠCH ỐP DD 48029 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 400x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 120,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-dd-48029.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/Bo-op-4-DD-48029.jpg"
+    }
+,
+    {
+        "tên": "GẠCH ỐP LD 48028 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 400x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 121,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-48028.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/Bo-op-4-LD-48028-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp màu trắng nguyên bản họa tiết dòng chảy LD... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 122,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-36126-2.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/Bo-op-5-LD-36126.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường MC 24003 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 200x400 mm ",
+        "đánh giá": "0.0 ",
+        "id": 123,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/mc24003.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/MC-24003.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường MC 25506 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 250x500 mm ",
+        "đánh giá": "0.0 ",
+        "id": 124,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/mc25506.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/MC-25506.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường MC 25505 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 250x500 mm ",
+        "đánh giá": "0.0 ",
+        "id": 125,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/mc25505.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/MC-25505-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền BC 3008G ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 126,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/bc3008g.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/BC-3008.jpg"
+    },
+    {
+        "tên": "Gạch lát nền BC 3007V ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 127,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/bc3007v.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/BC-3007.jpg"
+    },
+    {
+        "tên": "Gạch lát nền BC 3005 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 128,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/bc3005.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/BC-3005.jpg"
+    },
+    {
+        "tên": "Gạch bông lát nền màu đen-trắng-xám BC 3003 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 129,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/bc3003.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/BC-3003-FACE-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền MC 5526 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 500x500 mm ",
+        "đánh giá": "0.0 ",
+        "id": 130,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/mc5526.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/MC5526-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền VN 3301 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x300 mm ",
+        "đánh giá": "0.0 ",
+        "id": 131,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/vn3301.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/Bo-op-3-LD36144-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp LD 36144 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 132,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/ld36144.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/Bo-op-3-LD36144-scaled-1.jpg"
+    }
+,
+    {
+        "tên": "Bộ gạch ốp tường màu trắng - xám và họa tiết màu c... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 133,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/ld36143d.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/Bo-op-3-LD36143D-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp LD 36142 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 134,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/ld36142.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/Bo-op-3-LD36142-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp LX 36617M ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 135,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/lx36617m.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/Bo-op-2-LX36617M-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp LX 36615M ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 136,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/lx36615m.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/Bo-op-2-LX36615M-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp LX 36608 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 137,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/lx36608html/",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/Bo-op-1-LX36608-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường màu xám - trắng thời thượng, họa tiế... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 138,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/lx36607d.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/Bo-op-1-LX36607D-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch ốp LX 36606 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 139,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/lx36606.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/Bo-op-1-LX36606-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC màu nâu rêu đốm đen W 158010 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 140,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/w158010.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/01-1.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC màu nâu cafe ấm W 158007 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 141,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/w158007.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/01-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC màu xám trắng W 159005 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x900 mm ",
+        "đánh giá": "0.0 ",
+        "id": 142,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/w159005.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/1-3.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC màu hồng đào W 159004 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x900 mm ",
+        "đánh giá": "0.0 ",
+        "id": 143,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/w159004.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/1-2-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ CMC màu nâu đen W 159003 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x900 mm ",
+        "đánh giá": "0.0 ",
+        "id": 144,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/w159003.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/1-1.jpg"
+    }
+,
+    {
+        "tên": "Gạch thanh gỗ CMC màu nâu kem W 158003 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 145,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/w158003.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/1A.jpg"
+    },
+    {
+        "tên": "Gạch thanh gỗ màu nâu tây W 159002 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 150x900 mm ",
+        "đánh giá": "0.0 ",
+        "id": 146,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/w159002.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu vàng kem vân trắng sữa GX 6806 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 147,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gx6806.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/GX-6806-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu xám vân đá GX 6801 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "4.5 ",
+        "id": 148,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gx6801.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/GX-6801-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền trắng sữa họa tiết phối màu đá đa dạn... ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 149,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gx6813.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/GX-6813-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu xám đậm vân trắng GX 6805 ",
+        "giá": "Giá đang cập nhập... ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 150,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/gx6805.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/GX-6805-scaled-1.jpg"
+    },
+    {
+        "tên": "Gạch lát nền màu vàng kem LX 6639 ",
+        "giá": "Từ 160.000 ₫ – 210.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 151,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/lx6639.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/LX-6639.jpg"
+    },
+    {
+        "tên": "Gạch lát sàn vân đá màu nâu LX 8839 ",
+        "giá": "Từ 210.000 ₫ – 260.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 800x800 mm ",
+        "đánh giá": "0.0 ",
+        "id": 152,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/lx8839.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/LX-8839.jpg"
+    },
+    {
+        "tên": "Gạch lát KC 66004 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 600x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 153,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-lat/kc66004.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/07/KC-66004.jpg"
+    },
+    {
+        "tên": "Bộ gạch ốp tường DG10338-37-35-34 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 100x330 mm ",
+        "đánh giá": "0.0 ",
+        "id": 154,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-tuong-dg10338-37-35-34.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/DG10338-37-35-34.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường DG103318-17-32-31 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 100x330 mm ",
+        "đánh giá": "0.0 ",
+        "id": 155,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-tuong-dg103318-17-32-31.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/DG103318-17-32-31.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường TH10335 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 100x330 mm ",
+        "đánh giá": "0.0 ",
+        "id": 156,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-tuong-th10335.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/Tong-hop-TH-va-DG.jpg"
+    }
+,
+    {
+        "tên": "Gạch ốp tường TH10337 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 100x330 mm ",
+        "đánh giá": "0.0 ",
+        "id": 157,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-tuong-th10337.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/TH10338-37-36-32-31.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường TH10332 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 100x330 mm ",
+        "đánh giá": "0.0 ",
+        "id": 158,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-tuong-th10332.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/TH10338-37-36-32-31.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường TH10331 ",
+        "giá": "Từ 200.000 ₫ – 250.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 100x330 mm ",
+        "đánh giá": "0.0 ",
+        "id": 159,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-tuong-th10331.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/TH10338-37-36-32-31.jpg"
+    },
+    {
+        "tên": "Gạch ốp tường màu đen-trắng-xám và hoạ tiết xương ... ",
+        "giá": "Từ 165.000 ₫ – 215.000 ₫ vnd/m2 ",
+        "cỡ": "Kích thước: 300x600 mm ",
+        "đánh giá": "0.0 ",
+        "id": 160,
+        "link": "https://cmctiles.vn/gach-op-lat/gach-op/gach-op-ld-36127.html",
+        "ảnh": "https://cmctiles.vn/wp-content/uploads/2021/08/Bo-op-5-DD-36127.jpg"
+    }
+]

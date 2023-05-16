@@ -7,7 +7,7 @@ import { addCart } from './redux/action/';
 
 
 function Product() {
-    const { id } = useParams()
+    // const { id } = useParams()
     const [product, setProduct] = useState()
     const [loading, setLoading] = useState(false)
 
@@ -19,7 +19,7 @@ function Product() {
     useEffect(() => {
         const getProduct = async () => {
             setLoading(true)
-            fetch(`http://localhost:3000/gach/${id}`)
+            fetch('https://raw.githubusercontent.com/sonnh7289/phudaiphat/main/data-gach.json')
                 .then((res) => res.json())
                 .then((res) => {
                     setProduct(res)
