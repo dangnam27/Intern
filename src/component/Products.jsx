@@ -43,17 +43,17 @@ const Products = () => {
         return (
             <>
                 <div className="buttons d-flex justify-content-center mb-3 pt-1">
-                    <button className="btn btn-outline-danger m-1 fs-2" onClick={() => setFilter(data)}>TẤT CẢ</button>
-                    <button className="btn btn-outline-danger m-1 fs-2" onClick={() => filter.Product("Gạch lát nền")}>
+                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold" onClick={() => setFilter(data)}>TẤT CẢ</button>
+                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold" onClick={() => filter.Product("Gạch lát nền")}>
                        GẠCH LÁT NỀN
                     </button>
-                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product(" Gạch ốp tường")}>
+                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold"onClick={() => filter.Product(" Gạch ốp tường")}>
                         GẠCH ỐP TƯỜNG
                     </button>
-                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product("Gạch trang trí")}>
+                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold"onClick={() => filter.Product("Gạch trang trí")}>
                         GẠCH TRANG TRÍ
                     </button>
-                    <button className="btn btn-outline-danger m-1 fs-2"onClick={() => filter.Product("Gạch lát sân vườn")}>
+                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold"onClick={() => filter.Product("Gạch lát sân vườn")}>
                         GẠCH LÁT SÂN VƯỜN
                     </button>
                 </div>
