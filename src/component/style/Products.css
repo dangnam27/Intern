@@ -1,8 +1,11 @@
+* {
+    
+}
 .row {
-    padding-left: 100px;
+    
     padding-top: 40px;
     padding-bottom: 30px;
-    padding-right: 100px;
+    
 }
 
 img {
@@ -16,3 +19,4 @@ img {
     justify-content: center;
     padding-left: 50px;
 }
+

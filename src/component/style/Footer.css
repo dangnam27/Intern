@@ -10,3 +10,41 @@
     color: red;
     text-decoration: none;
 }
+.boder-radius {
+    border-radius: 340px;
+    width: 60%;
+}
+ footer {
+     background: rgba(0, 0, 0, 0.815);
+     clear: both;
+ }
+ footer p span {
+     color: #ff512f;
+ }
+
+ footer input {
+      border: none !important;
+ }
+ footer input::placeholder {
+     color: white !important;
+ }
+ footer .input-group .input-group-text {
+     background: var(--bgradient);
+ }
+  footer .column i {
+      color: #dd2476;
+  }
+
+  footer .colomn i {
+      padding: 0 0.5em;
+  }
+  footer .daily {
+      color: red;
+  }
+  .sticky {
+      position: fixed;
+      top:0;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.815);
+      z-index: 9999;
+      transition: all 1.5s;}

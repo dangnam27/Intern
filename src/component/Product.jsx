@@ -20,7 +20,7 @@ function Product() {
         const getProduct = async () => {
             setLoading(true)
             fetch(
-                `https://raw.githubusercontent.com/dangnam27/Intern/master/data.json`
+                `https://raw.githubusercontent.com/dangnam27/Intern/master/data.json/${id}`
             )
                 .then((res) => res.json())
                 .then((res) => {
@@ -30,7 +30,7 @@ function Product() {
                 })
         }
         getProduct()
-    }, [Input])
+    }, [])
     console.log(product)
     const Loading = () => {
         return <>Loading...</>

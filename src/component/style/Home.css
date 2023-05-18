@@ -7,5 +7,14 @@
       
   }
 
+  @media  (max-width < 768px) { 
+      .home {
+            object-fit: cover;
+            justify-content: center;
+            height: 50px;
+            width: 390px;
+      }
 
+
+  }
     

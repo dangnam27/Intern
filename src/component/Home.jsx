@@ -5,17 +5,17 @@ import './style/Home.css'
 export default function Home() {
     return (
         <>
-            <div class=" container-fluid">
+            <div className=" container-fluid p-0 ">
                 <div
                     id="carouselExampleDark"
-                    class="carousel carousel-dark slide"
+                    className="carousel carousel-dark slide"
                 >
-                    <div class="carousel-indicators">
+                    <div className="carousel-indicators">
                         <button
                             type="button"
                             data-bs-target="#carouselExampleCaptions"
                             data-bs-slide-to="0"
-                            class="active"
+                            className="active"
                             aria-current="true"
                             aria-label="Slide 1"
                         ></button>
@@ -57,95 +57,97 @@ export default function Home() {
                         ></button>
                     </div>
                     <div
-                        class="carousel-inner "
+                        className="carousel-inner "
                         id="carouselExampleInterval"
                         data-bs-ride="carousel"
                     >
                         <div
-                            class="carousel-item active"
+                            className="carousel-item active"
                             data-bs-interval="5000"
                         >
                             <img
                                 src="/assets//Untitled-2.jpg"
-                                class="d-block home"
+                                className="d-block home"
                                 alt="..."
                             />
-                            <div class="carousel-caption d-none d-md-block">
-                                <h5>GẠCH ỐP TƯỜNG</h5>
-                                <p>
+                            <div className="carousel-caption d-none d-md-block">
+                                
+                                <button className='btn btn-danger '><h5>GẠCH PHÚ ĐẠI PHÁT</h5>
+                                <span></span>
+                                <h6>
                                     Với thiết kế đa dạng cùng kết cấu vững chắc
                                     và độ bền với thới gian
-                                </p>
+                                </h6></button>
                             </div>
                         </div>
-                        <div class="carousel-item" data-bs-interval="5000">
+                        <div className="carousel-item" data-bs-interval="5000">
                             <img
                                 src="https://gachonline.vn/images/slide/slide2.jpg "
-                                class="d-block home"
+                                className="d-block home"
                                 alt="..."
                             />
                         </div>
-                        <div class="carousel-item" data-bs-interval="5000">
+                        <div className="carousel-item" data-bs-interval="5000">
                             <img
                                 src="https://gachonline.vn/images/slide/slide3.jpg"
-                                class="d-block home"
+                                className="d-block home"
                                 alt="..."
                             />
                         </div>
 
-                        <div class="carousel-item" data-bs-interval="5000">
+                        <div className="carousel-item" data-bs-interval="5000">
                             <img
                                 src="/assets/342993753_140317029027988_4281227234831885095_n.jpg"
-                                class="d-block home"
+                                className="d-block home"
                                 alt="..."
                             />
                         </div>
 
-                        <div class="carousel-item" data-bs-interval="5000">
+                        <div className="carousel-item" data-bs-interval="5000">
                             <img
                                 src="/assets/343575323_258439156702642_6807966443707324382_n.jpg"
-                                class="d-block home"
+                                className="d-block home"
                                 alt="..."
                             />
                         </div>
-                        <div class="carousel-item" data-bs-interval="5000">
+                        <div className="carousel-item" data-bs-interval="5000">
                             <img
                                 src="/assets/343208582_258952696687533_2579077178207519258_n.jpg"
-                                class="d-block home"
+                                className="d-block home"
                                 alt="..."
                             />
                         </div>
-                        <div class="carousel-item" data-bs-interval="5000">
+                        <div className="carousel-item" data-bs-interval="5000">
                             <img
                                 src="/assets/343279805_622509316125410_7824613633929751708_n.jpg"
-                                class="d-block home"
+                                className="d-block home"
                                 alt="..."
                             />
                         </div>
                     </div>
                     <button
-                        class="carousel-control-prev"
+                        className="carousel-control-prev"
                         type="button"
                         data-bs-target="#carouselExampleDark"
                         data-bs-slide="prev"
                     >
                         <span
-                            class="carousel-control-prev-icon"
+                            className="carousel-control-prev-icon"
                             aria-hidden="true"
                         ></span>
-                        <span class="visually-hidden">Previous</span>
+                        <span className="visually-hidden">Previous</span>
                     </button>
                     <button
-                        class="carousel-control-next"
+                        className="carousel-control-next"
                         type="button"
                         data-bs-target="#carouselExampleDark"
                         data-bs-slide="next"
                     >
                         <span
-                            class="carousel-control-next-icon"
+                            className="carousel-control-next-icon"
                             aria-hidden="true"
                         ></span>
-                        <span class="visually-hidden">Next</span>
+                        <span className="visually-hidden">Next</span>
                     </button>
                 </div>
             </div>

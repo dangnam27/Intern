@@ -6,14 +6,13 @@ import ReactPlayer from 'react-player';
 
 export default function Introduce() {
     return (
-        <div class="introduce container">
+        <div className="introduce container">
             <div>
-                <h1>Giới thiệu gachonline.vn</h1>
+                <h1>Giới thiệu gachmen.org</h1>
             </div>
             <div>
-                <p>
-                    ........................................................................................................................................................................................................................................................................................................................................................................................
-                </p>
+               
+                
                 <p>
                     Để có được một ngôi nhà hoàn mỹ, ắt hẳn không chỉ chú trọng
                     đến vẻ đẹp, chất lượng ngoại thất bên ngoài, mà còn đặc biệt
@@ -58,15 +57,29 @@ export default function Introduce() {
                 <p>
                     <FontAwesomeIcon icon="fa-solid fa-house" />
                 </p>
-                <div className='flex'> 
-                    <ReactPlayer
+                <div className='row justify-content-center'> 
+                <div className='col-md-6 pt-4 col-sm-12'>
+                <ReactPlayer
                         url="https://www.youtube.com/shorts/5damTaWBkK4"
-                        width="640px"
-                        height="360px"
+                        width="540px"
+                        height="330px"
+                        // width='100%'
+                        // height='100%'
                         playing={true}
-                        controls={false}
+                        controls={true}
                     />
-                    {/* <video src="https://www.youtube.com/shorts/5damTaWBkK4"></video> */}
+                </div>
+                <div className='col-md-6 col-sm-12'>
+                <ReactPlayer
+                        url="./assets/10000000_6588169977862755_9023366759210568736_n.mp4"
+                        width="540px"
+                        height="360px"
+                        // width='100%'
+                        playing={true}
+                        controls={true}
+                    />
+                </div>
+                  
                 </div>
             </div>
         </div>

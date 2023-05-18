@@ -2,17 +2,24 @@ import React, { useState, useEffect } from 'react'
 import './style/Products.css'
 import { NavLink } from 'react-router-dom'
 import Skeleton from 'react-loading-skeleton'
-
+import  Pagination  from './Pagination'
 const Products = () => {
     const [data, setData] = useState([])
     const [filter, setFilter] = useState(data)
     const [loading, setloading] = useState(false)
     let componentMount = true
+    const [pagination, setPagination] = useState({
+        page: 1,
+        limit : 10,
+        totalRow: 5,
+    });
 
     useEffect(() => {
         const getProducts = async () => {
             setloading(true)
-            fetch('https://raw.githubusercontent.com/dangnam27/Intern/master/data.json')
+            fetch(
+                'https://raw.githubusercontent.com/dangnam27/Intern/master/data.json'
+            )
                 .then((res) => res.json())
                 .then((res) => {
                     if (componentMount) {
@@ -27,42 +34,57 @@ const Products = () => {
         }
         getProducts()
     }, [])
-    
+    function handlePageChange (newPage){
+        console.log('new page: ', newPage)
+    }
     const Loading = () => {
-        return (
-            <>
-               Loading...
-            </>
-        )
+        return <>Loading...</>
     }
     const filterProduct = (cat) => {
-        const updatedList = data.filter((x) => x.category === cat);
-        setFilter(updatedList);
+        const updatedList = data.filter((x) => x.category === cat)
+        setFilter(updatedList)
     }
     const ShowProducts = () => {
         return (
             <>
-                <div className="buttons d-flex justify-content-center mb-3 pt-1">
-                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold" onClick={() => setFilter(data)}>TẤT CẢ</button>
-                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold" onClick={() => filter.Product("Gạch lát nền")}>
-                       GẠCH LÁT NỀN
+                <div className=" justify-content-center mb-3 pt-1 ">
+                    <button
+                        className="btn btn-outline-danger m-1 fs-4 lead fw-bold col-md-2 col-xs-4 "
+                        onClick={() => setFilter(data)}
+                    >
+                        TẤT CẢ
                     </button>
-                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold"onClick={() => filter.Product(" Gạch ốp tường")}>
+                    <button 
+                        className="btn btn-outline-danger m-1 fs-4 lead fw-bold col-md-2 col-xs-4"
+                        onClick={() => filter.Product('Gạch lát nền')}
+                    >
+                        GẠCH LÁT NỀN
+                    </button>
+                    <button
+                        className="btn btn-outline-danger m-1 fs-4 lead fw-bold col-md-2 col-xs-4"
+                        onClick={() => filter.Product(' Gạch ốp tường')}
+                    >
                         GẠCH ỐP TƯỜNG
                     </button>
-                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold"onClick={() => filter.Product("Gạch trang trí")}>
+                    <button
+                        className="btn btn-outline-danger m-1 fs-4 lead fw-bold col-md-2 col-xs-4"
+                        onClick={() => filter.Product('Gạch trang trí')}
+                    >
                         GẠCH TRANG TRÍ
                     </button>
-                    <button className="btn btn-outline-danger m-1 fs-3 lead fw-bold"onClick={() => filter.Product("Gạch lát sân vườn")}>
+                    <button
+                        className="btn btn-outline-danger m-1 fs-4 lead fw-bold col-md-3 col-xs-4 "
+                        onClick={() => filter.Product('Gạch lát sân vườn')}
+                    >
                         GẠCH LÁT SÂN VƯỜN
                     </button>
                 </div>
-                
-                {filter && filter.map((product) => {
-                        
+
+                {filter &&
+                    filter.map((product) => {
                         return (
                             <>
-                                <div className=" col-md-3 mb-4 ">
+                                <div className=" col-md-3 mb-4 col-sm-6  ">
                                     <div
                                         className="card h-100 text-center p-4"
                                         key={product.id}
@@ -95,9 +117,12 @@ const Products = () => {
 
     return (
         <div>
-        
-            <div className="row justify-content-center">
+            <div className="row justify-content-center p-2">
                 {loading ? <Loading /> : <ShowProducts />}
+                <Pagination
+                pagination = {pagination}
+                onPageChange={handlePageChange}
+                />
             </div>
         </div>
     )

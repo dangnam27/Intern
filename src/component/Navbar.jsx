@@ -1,6 +1,7 @@
 import React from 'react'
 // import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
+import './style/Navbar.css'
 
 
 
@@ -11,46 +12,57 @@ export default function Navbar() {
   
   return (
 <div>
-    <nav class="navbar navbar-expand-lg bg-primary  ">
-        <div class="container">
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <Link class="nav-link" to="./Home">TRANG CHỦ</Link>
-        </li>
-        <li class="nav-item ">
-          <Link class="nav-link " to="./Introduce">GIỚI THIỆU</Link>
-        </li>
-        <li class="nav-item">
-          <Link class="nav-link" to="./Tiles">GẠCH LÁT NỀN</Link>
-        </li>
-        <li class="nav-item">
-          <Link class="nav-link" to="./WallTiles">GẠCH ỐP TƯỜNG</Link>
-        </li>
-        <li class="nav-item">
-          <Link class="nav-link" to="./DecorationBrick">GẠCH TRANG TRÍ</Link>
-        </li>
-        <li class="nav-item">
-          <Link class="nav-link" to="./New">TIN TỨC</Link>
-        </li>
-        <li class="nav-item">
-          <Link class="nav-link" to="./Contact">LIÊN HỆ</Link>
-        </li>
+<div className="container-fluid p-0  bg-primary  ">
+<nav className="navbar navbar-expand-lg bg-primary p-2">
+          
+                <ul className='navbar-nav' >
+                <Link className="nav-link lead fw-bold   navbar-brand "  to="./Home"> TRANG CHỦ 
+                </Link>
+                </ul>
+               
+            <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+             <i className="fas fa-list"></i>
+            </button>
+            <div className="collapse navbar-collapse" id="navbarSupportedContent">
+                <div className="mr-auto"></div>
+              <ul className="navbar-nav">
+                
+                <li className="nav-item ">
+                <Link className="nav-link    " to="./Introduce">GIỚI THIỆU</Link>
+                </li>
+                <li className="nav-item">
+                  <Link className="nav-link  lead "to="./Tiles">GẠCH LÁT NỀN</Link>
+                </li>
+                <li className="nav-item ">
+                    <Link className="nav-link  lead "to="./WallTiles">GẠCH ỐP TƯỜNG</Link>
+                  </li>
+                <li className="nav-item dropdown">
+                <Link className="nav-link  lead " to="./DecorationBrick">GẠCH TRANG TRÍ</Link>
+                  </li>
+                  <li className="nav-item">
+                    <Link className="nav-link  lead " to="./New">TIN TỨC</Link>
+                  </li>
+                  <li className="nav-item">
+                    <Link className="nav-link  lead " to="./Contact">LIÊN HỆ</Link>
+                  </li>
+                </ul>
+                <form className="d-flex ms-5">
+                    <input className="form-control me-2" type="search" placeholder="Tìm kiếm thứ bạn thích" aria-label="Search"/>
+                    <button className="btn btn-outline-dark" type="submit">Tìm</button>
+                </form>
+                <Link to="#" className=" btn btn-outline-dark ms-2" color='#fffff'>
+                    KHUYỄN MÃI
+                </Link>
+                <Link to="/cart" className=" btn btn-outline-dark ms-2" color='#009d05'>
+                    GIỎ HÀNG ()
+                </Link>
+              </div>
+              
+          </nav>
+</div>
         
-      </ul>
-      <div className="buttons">
-        <Link to="#" className=" btn btn-outline-dark" color='#fffff'>
-            KHUYỄN MÃI
-        </Link>
-      </div>
-      <div className="buttons p-1">
-        <Link to="/cart" className=" btn btn-outline-dark ms-2" color='#009d05'>
-            GIỎ HÀNG ()
-        </Link>
-      </div>
-    </div>
-  </div>
-</nav>
+          
+    
     </div>
   )
 }
