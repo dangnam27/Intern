@@ -10,10 +10,11 @@ import { Routes, Route } from "react-router-dom";
 import Introduce from "./component/Introduce";
 import Product from "./component/Product";
 import Tiles from "./component/products/Tiles";
-
+import Header from "./component/Header"
 function App() {
   return (
     <>
+    <Header/>
     <Navbar/>
     <Routes>
           <Route path="/" element= {<Home/>}></Route>

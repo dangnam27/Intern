@@ -1,9 +1,9 @@
 .nav-link:hover {
     color: black;
 }
-.container-fluid .navbar-brand {
-
-color: rgb(251, 0, 0) ; 
+.container-fluid .nav_bar {
+margin-left: 100px;
+color: rgb(255, 0, 0) ; 
 }
 
 

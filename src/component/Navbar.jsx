@@ -13,10 +13,9 @@ export default function Navbar() {
   return (
 <div>
 <div className="container-fluid p-0  bg-primary  ">
-<nav className="navbar navbar-expand-lg bg-primary p-2">
-          
+<nav className="navbar navbar-expand-lg bg-primary p-2"> 
                 <ul className='navbar-nav' >
-                <Link className="nav-link lead fw-bold   navbar-brand "  to="./Home"> TRANG CHỦ 
+                <Link className="nav-link lead fw-bold   navbar-brand  nav_bar "  to="./Home"> TRANG CHỦ 
                 </Link>
                 </ul>
                
@@ -46,10 +45,7 @@ export default function Navbar() {
                     <Link className="nav-link  lead " to="./Contact">LIÊN HỆ</Link>
                   </li>
                 </ul>
-                <form className="d-flex ms-5">
-                    <input className="form-control me-2" type="search" placeholder="Tìm kiếm thứ bạn thích" aria-label="Search"/>
-                    <button className="btn btn-outline-dark" type="submit">Tìm</button>
-                </form>
+               
                 <Link to="#" className=" btn btn-outline-dark ms-2" color='#fffff'>
                     KHUYỄN MÃI
                 </Link>
@@ -57,7 +53,6 @@ export default function Navbar() {
                     GIỎ HÀNG ()
                 </Link>
               </div>
-              
           </nav>
 </div>
         

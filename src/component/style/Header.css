@@ -1,0 +1,7 @@
+* {
+    justify-content: center;
+}
+.phu_dai_phat {
+    justify-content:flex-start;
+    color: rgb(255, 245, 55);
+}

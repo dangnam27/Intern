@@ -20,7 +20,7 @@ function Product() {
         const getProduct = async () => {
             setLoading(true)
             fetch(
-                `https://raw.githubusercontent.com/dangnam27/Intern/master/data.json/${id}`
+                `https://raw.githubusercontent.com/dangnam27/Intern/master/data.json`
             )
                 .then((res) => res.json())
                 .then((res) => {
