@@ -1,8 +1,8 @@
 import React from 'react'
 import './style/Introduce.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import ReactPlayer from 'react-player';
-
+import ReactPlayer from 'react-player'
+import { Link } from 'react-router-dom'
 
 export default function Introduce() {
     return (
@@ -11,8 +11,6 @@ export default function Introduce() {
                 <h1>Giới thiệu gachmen.org</h1>
             </div>
             <div>
-               
-                
                 <p>
                     Để có được một ngôi nhà hoàn mỹ, ắt hẳn không chỉ chú trọng
                     đến vẻ đẹp, chất lượng ngoại thất bên ngoài, mà còn đặc biệt
@@ -49,37 +47,36 @@ export default function Introduce() {
                     tư vấn chặt chẽ, luôn lắng nghe mọi vướng mắc của KH.
                 </p>
                 <p>
-                    Hãy đến với <a href="#">gachmenphudaiphat.vn</a> luôn đồng hành
-                    cùng Quý khách hàng, cam kết mang lại cho KH sự hài lòng hơn
-                    cả mong đợi.
+                    Hãy đến với <Link href="#">gachmen.org</Link> luôn đồng hành cùng
+                    Quý khách hàng, cam kết mang lại cho KH sự hài lòng hơn cả
+                    mong đợi.
                 </p>
                 <p>Trân trọng!</p>
                 <p>
                     <FontAwesomeIcon icon="fa-solid fa-house" />
                 </p>
-                <div className='row justify-content-center'> 
-                <div className='col-md-6 pt-4 col-sm-12'>
-                <ReactPlayer
-                        url="https://www.youtube.com/shorts/5damTaWBkK4"
-                        width="540px"
-                        height="330px"
-                        // width='100%'
-                        // height='100%'
-                        playing={true}
-                        controls={true}
-                    />
-                </div>
-                <div className='col-md-6 col-sm-12'>
-                <ReactPlayer
-                        url="./assets/10000000_6588169977862755_9023366759210568736_n.mp4"
-                        width="540px"
-                        height="360px"
-                        // width='100%'
-                        playing={true}
-                        controls={true}
-                    />
-                </div>
-                  
+                <div className="row justify-content-center">
+                    <div className="col-md-6 pt-4 col-sm-12">
+                        <ReactPlayer
+                            url="https://www.youtube.com/shorts/5damTaWBkK4"
+                            width="540px"
+                            height="330px"
+                            // width='100%'
+                            // height='100%'
+                            playing={true}
+                            controls={true}
+                        />
+                    </div>
+                    <div className="col-md-6 col-sm-12">
+                        <ReactPlayer
+                            url="./assets/10000000_6588169977862755_9023366759210568736_n.mp4"
+                            width="540px"
+                            height="360px"
+                            // width='100%'
+                            playing={true}
+                            controls={true}
+                        />
+                    </div>
                 </div>
             </div>
         </div>

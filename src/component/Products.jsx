@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import './style/Products.css'
 import { NavLink } from 'react-router-dom'
 import Skeleton from 'react-loading-skeleton'
+
 import  Pagination  from './Pagination'
 const Products = () => {
     const [data, setData] = useState([])
@@ -13,9 +14,10 @@ const Products = () => {
         limit : 10,
         totalRow: 5,
     });
-
+    
     useEffect(() => {
         const getProducts = async () => {
+           
             setloading(true)
             fetch(
                 'https://raw.githubusercontent.com/dangnam27/Intern/master/data.json'

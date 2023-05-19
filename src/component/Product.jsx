@@ -7,7 +7,7 @@ import { addCart } from './redux/action/'
 
 function Product() {
     const { id } = useParams()
-   
+
     const [product, setProduct] = useState()
     const [loading, setLoading] = useState(false)
 
@@ -20,17 +20,16 @@ function Product() {
         const getProduct = async () => {
             setLoading(true)
             fetch(
-                `https://raw.githubusercontent.com/dangnam27/Intern/master/data.json`
+                `https://raw.githubusercontent.com/dangnam27/Intern/master/data.json/${id}`
             )
                 .then((res) => res.json())
                 .then((res) => {
-                    
                     setProduct(res)
                     setLoading(false)
                 })
         }
         getProduct()
-    }, [])
+    }, [Input])
     console.log(product)
     const Loading = () => {
         return <>Loading...</>
@@ -53,7 +52,10 @@ function Product() {
                         </h4>
                         <h1 className="display-5"> {product.tên}</h1>
 
-                        <h3 className="display-6 fw-bold my-4"> $$</h3>
+                        <h3 className="display-6 fw-bold my-4">
+                            {' '}
+                            {product.giá}
+                        </h3>
                         <div className="float-none">
                             <button
                                 className=" btn btn-outline-success m-2"
